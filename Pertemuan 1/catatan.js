@@ -77,11 +77,145 @@
 
 
 
-
-
-
 /**
  * const bisa di ubah
  * let bisa di ubah 
  * var bisa di ubah // kecuali di dalam block scope karena dia global //
+ */
+
+
+
+
+
+
+
+
+
+
+//closure
+/**
+ * closure adalah cara mengakses variable dari parent scope di didalam child scope parent
+ */
+
+
+
+
+
+
+
+
+
+
+//Tipe Data Pada js
+/**
+ * Tipe Data adalah karakteristik dari nilai sebuah data di js terdapat
+ * 7
+ * null, undifinied, boolean, number, bigInt, string, dan symbol (es6).
+ * Dan tipe data kompleks object.
+ * 
+ * loosely typed yaitu variable tidak menentukan sebuah tipe data, melainkan
+ * nilai yang menetukan tipe data tersebut
+ */
+
+
+
+
+
+
+
+
+
+
+/**
+ * Tipe Data undifined 
+ * Tipe data yang nilainya kosong atau tidak di definisikan
+ */
+
+
+
+
+
+
+
+
+
+
+/**
+ * Tipe data null
+ * Tipe data primitif yang nilainya kosong atau null
+ * 
+ * Perbedaan:
+ * Perbedaan nya kalo null itu gak mada nilainya
+ * Tapi kalo undifined itu nilainya belum jelas
+ */
+
+
+
+
+
+
+
+
+
+
+//Number
+/**
+ * Rentang nilai yang bisadi tampung oleh tipe data number yakni antara (2)
+ */
+
+
+
+/**
+ * NaN atau Not a Number
+ * NaN merupakan nilai numeric yang meberitahu bahwa nilainya itu invalid number
+ * atau bukan number.
+ * 
+ * Tugas:
+ * Ngasih Tau doang kalo dia itu na/ Ngedefisiin doang kalo itu bukan nomer
+ */
+
+
+
+
+
+
+
+
+
+
+//string
+/**
+ * string merupakan tipe data yang menampung karakter. symbolnya '', "", ``
+ * 
+ * 
+ * Length itu buat ngitung berapa isi string 
+ */
+
+
+
+
+
+
+
+
+
+
+//Boolean
+/**
+ * Boolean sebuah tipe data yang menentukan kebenaran dan hanya memiliki 2 nilai
+ * yaitu true dan false
+ */
+
+
+
+
+
+
+
+
+
+
+//Object
+/**
+ * Object merupakan Tipe Data komplek yang berisi props(Propertis)
  */
