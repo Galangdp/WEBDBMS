@@ -219,3 +219,41 @@
 /**
  * Object merupakan Tipe Data komplek yang berisi props(Propertis)
  */
+
+
+
+
+
+
+
+
+
+
+//Function
+/**
+ * Merupakan Sebuah Blok Code untuk membungkus sebuah proses penulisan kode agar tidak di ulang kembali
+ */
+
+
+/**
+ * Anonymous Function 
+ * 
+ * Membuat variable dengan di isikan function yang tidak memilik name WHY?
+ * because lu bikin variable yang di mana lu udah namain variable itu
+ * nama varibale itulah nama function lu...
+ */
+
+
+/**
+ * Arrow Function
+ * 
+ * Sama kaya anonymous chat but.. klo ini gak ada function nya
+ */
+
+
+/**
+ * High Order Function
+ * 
+ * Fungsi yang menerima argumen berupa fungsi lain serta return bisa berupa fungsi juga
+ */
+
