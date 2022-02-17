@@ -22,21 +22,21 @@
 
 //!Jawaban 2
 
-function tahun(mobil) {
-    return mobil <= 2001
-}
+// function tahun(mobil) {
+//     return mobil <= 2001
+// }
 
-function cc(mobil) {
-    return mobil >= 150
-}
+// function cc(mobil) {
+//     return mobil >= 150
+// }
 
-function jawaban(callback, mobil) {   //*dia memiliki 2 PARAMETER
-    let a = callback(mobil)  //Callback parameter kosong (Jadi pembanding)  and call back nya dari parameter kendaraan    
-                                        //*Kemudian di isi dengan parameter
-    if(a){
-        console.log(`${mobil} harus bayar pajak`)
-    }else{
-        console.log(`${mobil} gaperlu bayar pajak`)
-    }
-}
-jawaban(cc, 125)
+// function jawaban(callback, mobil) {   //*dia memiliki 2 PARAMETER
+//     let a = callback(mobil)  //Callback parameter kosong (Jadi pembanding)  and call back nya dari parameter kendaraan    
+//                                         //*Kemudian di isi dengan parameter
+//     if(a){
+//         console.log(`${mobil} harus bayar pajak`)
+//     }else{
+//         console.log(`${mobil} gaperlu bayar pajak`)
+//     }
+// }
+// jawaban(cc, 125)

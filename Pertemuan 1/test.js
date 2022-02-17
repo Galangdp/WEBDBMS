@@ -410,22 +410,22 @@
 
 
 //Contoh 2
-function sport(mobil) {
-    return mobil >= 100
-}
+// function sport(mobil) {
+//     return mobil >= 100
+// }
 
-function warna(mobil) {
-    return mobil == 'merah'
-}
+// function warna(mobil) {
+//     return mobil == 'merah'
+// }
 
-function kendaraan(mobil, callback) {   //*dia memiliki 2 PARAMETER
-    let a = callback(mobil)  //Callback parameter kosong (Jadi pembanding)  and call back nya dari parameter kendaraan    
-                                        //*Di isi dengan parameter
-    if(a){
-        console.log(`mobil dengan ${mobil} adalah mobil saya`)
-    }else{
-        console.log(`mobil dengan ${mobil} bukan mobil saya`)
-    }
-}
+// function kendaraan(mobil, callback) {   //*dia memiliki 2 PARAMETER
+//     let a = callback(mobil)  //Callback parameter kosong (Jadi pembanding)  and call back nya dari parameter kendaraan    
+//                                         //*Di isi dengan parameter
+//     if(a){
+//         console.log(`mobil dengan ${mobil} adalah mobil saya`)
+//     }else{
+//         console.log(`mobil dengan ${mobil} bukan mobil saya`)
+//     }
+// }
 
-kendaraan(warna, 'merah')
+// kendaraan(warna, 'merah') 

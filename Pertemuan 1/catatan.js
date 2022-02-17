@@ -7,7 +7,9 @@
  * tidak boleh menggunakan bahasa yang sudah ada default di js
  */
 
-
+//Contoh :
+//Contoh identifier yang boleh : nama, $nama, nama123, _nama.
+//Contoh identifier yang tidak boleh : 123nama, &nama, :pnama.
 
 
 
